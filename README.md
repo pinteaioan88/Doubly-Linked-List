@@ -1,2 +1,4 @@
 # Doubly-Linked-List
-Doubly linked list operations
+
+- adding multiple elements to a doubly linked list
+and counting each apparition of the elements
